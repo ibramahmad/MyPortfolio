@@ -390,3 +390,4 @@ const optimizedScrollHandler = debounce(function() {
 }, 10);
 
 window.addEventListener('scroll', optimizedScrollHandler);
+
